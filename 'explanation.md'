@@ -1,0 +1,9 @@
+There are a number of web browsers in the amrket today. They include: Opera Mini, Internet Explorer, Google Chrome, Mozilla Firefox and Safari. These web browsers are very important as they enable one to: send documents via the internet, upload and download files, send emails, and they are able to stream vidoes and watch them. 
+All these browsers have one thing in common. They all utilise the URL (Uniform Resource Allocators). These URLs have speciall addresses,  protocol:host.domain.first-level domain i.e example https://www.mishamwamngi.com/mackintosh/name.html
+https: this is the protocol
+www: is the host
+mishamwangi:domain
+.com: this is the first level domain
+/:it shows the path that will be followed
+mackintosh:location of the name.html file.
+once the server has been able to allocate this, then it can comfortably run the application and give the user the required information
