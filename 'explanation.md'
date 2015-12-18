@@ -6,4 +6,5 @@ mishamwangi:domain
 .com: this is the first level domain
 /:it shows the path that will be followed
 mackintosh:location of the name.html file.
-once the server has been able to allocate this, then it can comfortably run the application and give the user the required information
+Browsers have a number of components which include: user interface, browser engine, rendring engine, networking, UI backend, JavaScript Interpreter and the data storage.
+whatever a user views on their screen has passed a number of stages. most of the content online is in the form of HTML and CSS  elements. most of this happens in the rendiring engine, as its in charge of displaying content. once a user has searched something, the process is fast and one can't see the process, but it starts by detecting the html elements, which then goes into the html parser, which then goes to the DOM tree that checks the attachments, from here it goes through the render tree, to determine the display and how it will look then a user gets the displayed information
